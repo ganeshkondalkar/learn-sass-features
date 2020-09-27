@@ -1,6 +1,23 @@
-/* line 1, ../sass/main.scss */
+.heading-1 {
+  padding: 10px;
+  color: #ffffff;
+  background-color: #000000;
+  display: block;
+}
+
+ul, ol {
+  color: #ff0000;
+  text-align: left;
+  padding: 10px;
+}
+
+h1 {
+  color: #ffffff;
+  background: #000000;
+}
+
 .salpai_prasanna {
-  color: #f00;
+  border: 1px solid #000000;
   display: block;
 }
 

@@ -1,4 +1,7 @@
+@use "./partials/colors" as colors;
+@use "./partials/lists";
+
 .salpai_prasanna {
-  color: #f00;
+  border: 1px solid colors.$theme-black;
   display: block;
 }
