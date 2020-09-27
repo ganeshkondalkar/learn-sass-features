@@ -1,0 +1,25 @@
+{
+  "name": "learn-sass-features",
+  "version": "1.0.0",
+  "description": "Learn the latest features within SASS",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkondalkar/learn-sass-features.git"
+  },
+  "author": "Ganesh Kondalkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganeshkondalkar/learn-sass-features/issues"
+  },
+  "homepage": "https://github.com/ganeshkondalkar/learn-sass-features#readme",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
