@@ -1,4 +1,6 @@
-@use "./partials/colors" as colors;
+@use "./partials/colors" as colors with (
+  $font-size: 24px
+);
 @use "./partials/lists";
 
 .salpai_prasanna {

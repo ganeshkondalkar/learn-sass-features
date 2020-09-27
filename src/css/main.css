@@ -3,12 +3,14 @@
   color: #ffffff;
   background-color: #000000;
   display: block;
+  border-radius: 5px;
 }
 
 ul, ol {
   color: #ff0000;
   text-align: left;
   padding: 10px;
+  font-size: 24px;
 }
 
 h1 {
