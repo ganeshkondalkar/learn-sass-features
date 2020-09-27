@@ -2,11 +2,18 @@ $theme-black: #000000;
 $theme-white: #ffffff;
 $theme-red: #ff0000;
 
+// private members within colors sass file.
+$_radius: 5px;
+
+// configurable variables with default values.
+$font-size: 18px !default;
+
 .heading {
   &-1 {
     padding: 10px;
     color: $theme-white;
     background-color: $theme-black;
     display: block;
+    border-radius: $_radius;
   }
 }

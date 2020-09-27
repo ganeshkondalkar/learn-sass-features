@@ -1,9 +1,11 @@
-@use "./colors";
+@use "./colors" as colors;
 
 ul, ol {
   color: colors.$theme-red;
   text-align: left;
   padding: 10px;
+  // NOTE: font-size will be configured from main.scss, i.e. 24px and not default 18px
+  font-size: colors.$font-size;
 }
 
 h1 {
