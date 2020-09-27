@@ -1,0 +1,12 @@
+@use "./colors";
+
+ul, ol {
+  color: colors.$theme-red;
+  text-align: left;
+  padding: 10px;
+}
+
+h1 {
+  color: colors.$theme-white;
+  background: colors.$theme-black;
+}
