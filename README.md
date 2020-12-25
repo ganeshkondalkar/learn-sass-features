@@ -11,4 +11,7 @@ Run below command to install.
 # Bootstrap/Build:
 Run below command to keep editing in watch mode.
 
+#Additional Resources:
+* [Awesome Stylelint - Tutorials](https://github.com/stylelint/awesome-stylelint#tutorials)
+
 `npm start`

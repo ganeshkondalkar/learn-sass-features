@@ -11,6 +11,7 @@
       {
         "ignoreAtRules": ["use"]
       }
-    ]
+    ],
+    "at-rule-disallowed-list": ["debug"]
   }
 }
